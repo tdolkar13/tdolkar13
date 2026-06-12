@@ -9,7 +9,6 @@
 <br/>
 
 ![BSCS](https://img.shields.io/badge/BSCS-Year%203%20%7C%20AI%20Concentration-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.39%20%2F%204.00-6D28D9?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
@@ -21,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tdolkar13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thupdolkar13)
 [![Email](https://img.shields.io/badge/Email-thupdolkar13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thupdolkar13@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thupdolkar13)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdolkar13)
 
 <br/><br/>
 
@@ -233,23 +232,6 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎖️ Recognition | Details |
-|:---:|:---|
-| 🎨 **International Art Exhibition** | Drawing exhibited at the Japan International Photography Federation, Kyoto, Japan |
-| 🏔️ **High-Altitude Trekker** | Successful expeditions above 5,000m in the Himalayas |
-| 🤝 **Volunteer Recognition** | Community service award from Tsum Welfare Committee (Oct 2025) |
-| 🎓 **Academic Excellence** | Grades of A in Data Structures, Numerical Methods, Database Design & Cloud Computing |
-| 🏃 **Marathon Runner** | Endurance athlete competing in long-distance running events |
-| 🌐 **International Exchange Candidate** | Selected for International Semester Exchange Program consideration |
-
-</div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">
@@ -293,8 +275,8 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thupdolkar13&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&icon_color=8B5CF6&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thupdolkar13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tdolkar13&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&icon_color=8B5CF6&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdolkar13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
 
 <br/><br/>
 
@@ -308,7 +290,7 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=thupdolkar13&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tdolkar13&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -318,7 +300,7 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thupdolkar13&bg_color=0D0015&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tdolkar13&bg_color=0D0015&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -329,9 +311,9 @@ Managed organizational workflows and internal communications for one of Nepal's 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thupdolkar13/thupdolkar13/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thupdolkar13/thupdolkar13/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/thupdolkar13/thupdolkar13/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -374,8 +356,8 @@ Current Focus — 2025/2026:
 
 [![Gmail](https://img.shields.io/badge/Gmail-thupdolkar13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thupdolkar13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thupten%20Dolkar%20Lama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thupdolkar13)
-[![GitHub](https://img.shields.io/badge/GitHub-thupdolkar13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thupdolkar13)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/thupdolkar13)
+[![GitHub](https://img.shields.io/badge/GitHub-thupdolkar13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdolkar13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tdolkar13)
 
 </div>
 
