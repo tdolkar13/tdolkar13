@@ -37,7 +37,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thupdolkar13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
 
-I am a third-year **Computer Science** student concentrating in **Artificial Intelligence** at King's College (affiliated with Westcliff University, USA), with a 3.39 GPA and a background that spans backend engineering, cloud infrastructure, IoT systems, and professional HR operations.
+I am a third-year **Computer Science** student concentrating in **Artificial Intelligence** at King's College (affiliated with Westcliff University, USA),  and a background that spans backend engineering, cloud infrastructure, IoT systems, and professional HR operations.
 
 My engineering philosophy centers on **systems thinking** — designing software that is not only functional but scalable, observable, and maintainable in production environments. I approach problems with a product mindset: understanding the *why* before architecting the *how*.
 
