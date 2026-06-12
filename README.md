@@ -280,7 +280,7 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thupdolkar13&theme=midnight-purple&hide_border=true&background=0D0015&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tdolkar13&theme=midnight-purple&hide_border=true&background=0D0015&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 
 </div>
 
@@ -311,9 +311,12 @@ Managed organizational workflows and internal communications for one of Nepal's 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
