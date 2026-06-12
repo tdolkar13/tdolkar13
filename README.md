@@ -18,16 +18,16 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/thupdolkar13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tdolkar13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thupdolkar13)
 [![Email](https://img.shields.io/badge/Email-thupdolkar13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thupdolkar13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thupdolkar13)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thupdolkar13&color=7C3AED&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/thupdolkar13?color=6D28D9&style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/thupdolkar13?color=4C1D95&style=flat-square&logo=github&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=tdolkar13&color=7C3AED&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/tdolkar13?color=6D28D9&style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/tdolkar13?color=4C1D95&style=flat-square&logo=github&label=Stars)
 
 </div>
 
@@ -110,7 +110,7 @@ An embedded systems project delivering real-time power tracking and efficiency a
 | **Performance** | Sub-second sensor polling with local computation |
 | **Security** | Isolated hardware environment, no external data exposure |
 | **Impact** | Demonstrated practical IoT pipeline from sensor to analysis |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/thupdolkar13) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/tdolkar13) |
 
 Designed around the principle that energy intelligence should be **low-latency and hardware-native**. The system captures power consumption metrics directly at the circuit level, processes them on-device, and presents actionable efficiency analysis — a complete edge computing pipeline built from first principles.
 
@@ -132,7 +132,7 @@ A backend-focused news intelligence platform built in Python, architecting a dat
 | **Performance** | Real-time data flow with minimal latency on content refresh |
 | **Security** | Read-only scraping model, no user data collection |
 | **Impact** | Focused lens on Nepali digital media landscape |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/thupdolkar13) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/tdolkar13) |
 
 Built to solve a personal problem: fragmented, low-quality access to Nepali news sources. The aggregator consolidates multiple outlets into a single structured feed, demonstrating mature **backend data engineering** — scraping, parsing, normalizing, and serving content programmatically.
 
@@ -154,7 +154,7 @@ A hardware-software integrated solution engineered to improve medication adheren
 | **Performance** | Precise timer-based interrupts for reliable alert delivery |
 | **Security** | Standalone offline device — zero network attack surface |
 | **Impact** | Applied engineering to a direct healthcare quality-of-life use case |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/thupdolkar13) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/tdolkar13) |
 
 An intersection of empathy and engineering. Designed for individuals who require structured medication schedules, the system operates independently of any network dependency — prioritizing reliability over connectivity. Demonstrates end-to-end ownership from circuit design through firmware deployment.
 
@@ -176,7 +176,7 @@ Full lifecycle solo delivery of production web infrastructure for a registered N
 | **Performance** | SEO-optimized structure with AI-assisted content generation |
 | **Security** | SSL/TLS certificates, DNS hardening, domain-level isolation |
 | **Impact** | End-to-end commercial delivery for a registered Nepali business |
-| **Repository** | [![Live](https://img.shields.io/badge/Production-Live-7C3AED?style=flat-square)](https://github.com/thupdolkar13) |
+| **Repository** | [![Live](https://img.shields.io/badge/Production-Live-7C3AED?style=flat-square)](https://github.com/tdolkar13) |
 
 Demonstrated the full scope of a **product engineer** operating solo: client requirements, infrastructure provisioning, UI/UX customization, AI-assisted content workflows, and post-launch administration. All five sites remain live in production.
 
