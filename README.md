@@ -34,7 +34,7 @@
 
 ## 🧬 About
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thupdolkar13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdolkar13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=7C3AED&text_color=C4B5FD&langs_count=8"/>
 
 I am a third-year **Computer Science** student concentrating in **Artificial Intelligence** at King's College (affiliated with Westcliff University, USA),  and a background that spans backend engineering, cloud infrastructure, IoT systems, and professional HR operations.
 
@@ -285,26 +285,31 @@ Managed organizational workflows and internal communications for one of Nepal's 
 </div>
 
 ---
+<!-- ========================= GitHub Trophies ========================= -->
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tdolkar13&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tdolkar13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
+
+<!-- ========================= Contribution Activity ========================= -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tdolkar13&bg_color=0D0015&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tdolkar13&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
+
+<!-- ========================= Contribution Snake ========================= -->
 
 ## 🐍 Contribution Snake
 
@@ -312,16 +317,43 @@ Managed organizational workflows and internal communications for one of Nepal's 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/tdolkar13/tdolkar13/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: tdolkar13
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## 🎯 Current Focus
 
